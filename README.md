@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I still don't have a proper profile page for Github so check out this cute cat!!
+
+![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <!--
 **Float07/Float07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
