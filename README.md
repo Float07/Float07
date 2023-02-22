@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm lazy so I still don't have a proper profile page for Github, but check out this cute cat!!
-
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
